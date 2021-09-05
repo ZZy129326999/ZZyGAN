@@ -14,3 +14,5 @@ git push
 
 git config --global --unset http.proxy  
 git config --global --unset https.proxy  
+git rm -r --cached  NAME  
+git commit -m '删除'  
