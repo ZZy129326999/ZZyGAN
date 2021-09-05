@@ -11,3 +11,6 @@ git add .
 git commit -m NOTE  
 git pull   
 git push  
+
+git config --global --unset http.proxy  
+git config --global --unset https.proxy  
